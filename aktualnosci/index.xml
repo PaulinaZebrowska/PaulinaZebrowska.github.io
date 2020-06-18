@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aktualności | Mikrobiom i Autyzm</title>
+    <link>https://PaulinaZebrowska.github.io/aktualnosci/</link>
+      <atom:link href="https://PaulinaZebrowska.github.io/aktualnosci/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aktualności</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>pl</language><copyright>© Tomasz Różański, 2020</copyright><lastBuildDate>Thu, 18 Jun 2020 00:43:02 +0200</lastBuildDate>
+    <image>
+      <url>https://PaulinaZebrowska.github.io/images/logo_hued854e8c357896e2f48a30fcd1a120ff_22147_300x300_fit_lanczos_2.png</url>
+      <title>Aktualności</title>
+      <link>https://PaulinaZebrowska.github.io/aktualnosci/</link>
+    </image>
+    
+    <item>
+      <title>Naukowo o autyzmie</title>
+      <link>https://PaulinaZebrowska.github.io/aktualnosci/naukowo-o-autyzmie/</link>
+      <pubDate>Thu, 18 Jun 2020 00:43:02 +0200</pubDate>
+      <guid>https://PaulinaZebrowska.github.io/aktualnosci/naukowo-o-autyzmie/</guid>
+      <description>&lt;p&gt;Pomimo licznych badań etiologia i patogeneza autyzmu wciąż pozostaje nieznana. Uważa się, że zarówno czynniki genetyczne, jak i środowiskowe wpływają na inicjację i rozwój autyzmu (Risch N, 2014).&lt;/p&gt;
+&lt;p&gt;Wysoka częstość objawów ze strony przewodu pokarmowego u dzieci ze spektrum autyzmu (ASD, ang. Autism Spectrum Disorder) zwróciła uwagę na potencjalną rolę mikroorganizmów przewodu pokarmowego w występowaniu i rozwoju tego rodzaju zaburzeń (Chaidez V, Hansen RL, Hertz-Picciotto I., 2014).&lt;/p&gt;
+&lt;p&gt;Dolegliwości żołądkowo-jelitowe (GI, ang. gastrointestinal), w tym ból brzucha, wzdęcia, biegunka i zaparcia częściej zgłaszane są wśród dzieci z ASD, niż u dzieci z grupy kontrolnej (Chaidez V, Hansen RL, Hertz-Picciotto I., 2014). We wcześniejszych badaniach wykazano znaczące różnice w składzie mikroflory przewodu pokarmowego u dzieci z ASD w porównaniu do grupy kontrolnej. Co więcej, wykazano także korelację między nasileniem objawów GI a nasileniem objawów autyzmu (wg skali ATEC, ang. Autism Treatment Evaluation Checklist, 2011) (Adams JB, 2011).&lt;/p&gt;
+&lt;p&gt;Badania dotyczące mikroflory jelitowej dostarczyły ważnych spostrzeżeń dotyczących złożonej dwukierunkowej komunikacji wzdłuż osi mikroflora–jelito–mózg (ang. microbiota–gut–brain axis) i rzuciły nowe światło na patogenezę chorób neurorozwojowych u ludzi i w modelach mysich, w tym autyzmu. Dowody sugerują, że mikroorganizmy zasiedlające jelita odgrywają rolę w rozwoju mózgu, mają modulujący wpływ na zachowanie (ang. behavior) oraz ekspresję genów, poprzez ścieżki nerwowe, hormonalne i immunologiczne (Douglas-Escobar M, 2013).&lt;/p&gt;
+&lt;p&gt;Dotychczas wykonano wiele analiz mikroflory jelitowej w autyzmie, jednak wciąż nie można wyciągnąć jednoznacznych wniosków na temat składu flory i dysbiozy mikrobiomu jelitowego, ze względu na kilka czynników uniemożliwiających metaanalizę dotąd uzyskanych danych. Są to przede wszystkim różne metody identyfikacji zasiedlających jelito taksonów bakterii, kulturo-zależne (tradycyjne kultury bakteryjne) i kulturo-niezależne, oparte o techniki sekwencjonowania genomu, badania prowadzone na niereprezentatywnej liczbie pacjentów, różne skale kwalifikujące pacjentów do danego zaburzenia neurorozwojowego oraz określające nasilenie objawów gastrycznych, dobór odpowiedniej grupy kontrolnej, a także braki w wywiadzie na temat innych potencjalnych zmiennych, w tym płci, wieku, stosowania antybiotyków lub środków przeciwgrzybiczych, historii alergii, ograniczeniach dietetyczneych i suplementach diety (Martínez-González AE, Andreo-Martínez P., 2019).&lt;/p&gt;
+&lt;p&gt;W świetle powyższych doniesień literaturowych oraz informacji, że charakterystyka mikrobiomu przewodu pokarmowego dzieci cierpiących na zaburzenia ze spektrum, a w szczególności autyzmu per se, pozostaje niedostatecznie zbadaną dziedziną postanowiliśmy poddać analizie skład mikroflory jelitowej dzieci cierpiących na autyzm na przykładzie populacji polskiej, ze szczególnym uwzględnieniem trzech głównych typów bakterii – Firmicutes, Bacteroidetes i Proteobacteria, w odniesieniu do stopnia nasilenia objawów GI i płci pacjenta, wykorzystując nowoczesne techniki sekwencjonowania następnej generacji (NGS, ang. Next Generation Sequencing) wraz ze sprzężoną analizą transkryptomu bakteryjnego. W celu realizacji powyższych założeń niezbędne jest pobranie próbki stolca od dziecka poddawanego analizie składu mikrobioty fekalnej.&lt;/p&gt;
+&lt;h2 id=&#34;literatura&#34;&gt;Literatura&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Risch, N, Hoffmann, TJ, Anderson, M, Croen, LA, Grether, JK, Windham, GC (2014). Familial recurrence of autism spectrum disorder: evaluating genetic and environmental contributions. Am J Psychiatry, 171, 11:1206-13.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Chaidez, V, Hansen, RL, Hertz-Picciotto, I (2014). Gastrointestinal problems in children with autism, developmental delays or typical development. J Autism Dev Disord, 44, 5:1117-27.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Adams, JB, Johansen, LJ, Powell, LD, Quig, D, Rubin, RA (2011). Gastrointestinal flora and gastrointestinal status in children with autism&amp;ndash;comparisons to typical children and correlation with autism severity. BMC Gastroenterol, 11:22.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Douglas-Escobar, M, Elliott, E, Neu, J (2013). Effect of intestinal microbial ecology on the developing brain. JAMA Pediatr, 167, 4:374-9.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Martínez-González, AE, Andreo-Martínez, P (2019). The Role of Gut Microbiota in Gastrointestinal Symptoms of Children with ASD. Medicina (Kaunas), 55, 8: 408.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ankieta POZ</title>
+      <link>https://PaulinaZebrowska.github.io/aktualnosci/ankieta_poz_dostepna/</link>
+      <pubDate>Sat, 06 Jun 2020 19:38:04 +0200</pubDate>
+      <guid>https://PaulinaZebrowska.github.io/aktualnosci/ankieta_poz_dostepna/</guid>
+      <description>&lt;p&gt;Zachęcamy wszystkich rodziców do wypełnienia ankiety dotyczącej podstawowej opieki zdrowotnej. Ankieta ma na celu zebranie opinii, które posłużą przygotowaniu rekomendacji, które mogą poprawić komfort dziecka w czasie wizyt lekarskich.&lt;/p&gt;
+&lt;p&gt;Ankieta jest dostępna 
+&lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSd-uDGRD_ElzM8L6bJk4F2RYKlUjPDRbGkY_R7zqpngjORxcg/viewform?embedded=true&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tutaj&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

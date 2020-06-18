@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication_types | Mikrobiom i Autyzm</title>
+    <link>https://PaulinaZebrowska.github.io/publication_types/</link>
+      <atom:link href="https://PaulinaZebrowska.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>pl</language><copyright>© Tomasz Różański, 2020</copyright>
+    <image>
+      <url>https://PaulinaZebrowska.github.io/images/logo_hued854e8c357896e2f48a30fcd1a120ff_22147_300x300_fit_lanczos_2.png</url>
+      <title>Publication_types</title>
+      <link>https://PaulinaZebrowska.github.io/publication_types/</link>
+    </image>
+    
+  </channel>
+</rss>
